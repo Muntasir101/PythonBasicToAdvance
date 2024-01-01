@@ -1,0 +1,16 @@
+Day 1: Intermediate Problems
+
+1. Anagram Checker:
+Write a Python function that checks if two given strings are anagrams (i.e., they have the same characters but may be in a different order).
+
+2. Text-Based Game:
+Create a text-based game (e.g., rock-paper-scissors) where the user can play against the computer. Use functions and conditional statements to implement the game logic.
+Prime Factorization:
+
+3. Write a program that takes an input number from the user and prints its prime factors.
+Shortest Word Finder:
+
+4. Write a function that takes a sentence as input and returns the shortest word in it.
+
+5. Basic Sorting Algorithm:
+Implement a basic sorting algorithm (e.g., bubble sort) to sort a list of numbers in ascending order.
